@@ -1,0 +1,43 @@
+{C:/Users/user/Desktop/Logic Project/Sbox.v} {1 {vlog -work work -vopt -stats=none {C:/Users/user/Desktop/Logic Project/Sbox.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Sbox
+
+Top level modules:
+	Sbox
+
+} {} {}} {C:/Users/user/Desktop/Logic Project/InverseSbox.v} {1 {vlog -work work -vopt -stats=none {C:/Users/user/Desktop/Logic Project/InverseSbox.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module InverseSbox
+
+Top level modules:
+	InverseSbox
+
+} {} {}} {C:/Users/user/Desktop/Logic Project/InverseShiftRows.v} {1 {vlog -work work -vopt -stats=none {C:\Users\user\Desktop\Logic Project\InverseShiftRows.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module InverseShiftRows
+
+Top level modules:
+	InverseShiftRows
+
+} {} {}} {C:/Users/user/Desktop/Logic Project/ShiftRows.v} {1 {vlog -work work -vopt -stats=none {C:\Users\user\Desktop\Logic Project\ShiftRows.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ShiftRows
+
+Top level modules:
+	ShiftRows
+
+} {} {}} {C:/Users/user/Desktop/Logic Project/SubByte.v} {1 {vlog -work work -vopt -stats=none {C:\Users\user\Desktop\Logic Project\SubByte.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module SubByte
+
+Top level modules:
+	SubByte
+
+} {} {}} {C:/Users/user/Desktop/Logic Project/InverseSubByte.v} {1 {vlog -work work -vopt -stats=none {C:/Users/user/Desktop/Logic Project/InverseSubByte.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module InverseSubByte
+
+Top level modules:
+	InverseSubByte
+
+} {} {}}
